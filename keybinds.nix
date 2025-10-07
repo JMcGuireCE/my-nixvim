@@ -1,4 +1,5 @@
 # Josh McGuire, 2025
+# Primary keybinds
 
 { ... }:
 

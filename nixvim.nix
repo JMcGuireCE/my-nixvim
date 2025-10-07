@@ -1,3 +1,6 @@
+# Josh McGuire, 2025
+# High-level settings
+
 { ... }:
 
 {
