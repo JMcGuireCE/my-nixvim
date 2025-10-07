@@ -11,7 +11,7 @@ This configuration is meant to be included in a Nix-based system configuration.
 For information on how to do this, see the [standalone
 usage](https://nix-community.github.io/nixvim/platforms/standalone.html) section
 of the Nixvim documentation. If you'd like to try this configuration before
-installing it, you may do so with 'nix run github:JMcGuireCE/my-nixvim'. If you
+installing it, you may do so with `nix run github:JMcGuireCE/my-nixvim`. If you
 decide you like it, feel free to fork it for yourself!
 
 
